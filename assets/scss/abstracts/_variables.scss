@@ -1,8 +1,8 @@
 // Breakpoints
 
-$breakpoint:(
-    'small': (min-width: 576px),
-    'medium': (mind-width: 768px),
-    'large': (mind-width: 992px),
-    'extralarge': (mind-width: 1200px),
+$breakpoints: (
+  'small': (min-width: 576px),
+  'medium': (min-width: 768px),
+  'large': (min-width: 992px),
+  'extralarge': (min-width: 1200px),
 );
